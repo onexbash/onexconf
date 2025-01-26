@@ -1,0 +1,8 @@
+# -- SYSTEM -- #
+.DS_Store
+*tmp*
+# -- ENVIRONMENT -- #
+.env*
+*.env
+
+
