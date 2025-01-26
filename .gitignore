@@ -1,6 +1,9 @@
 # -- SYSTEM -- #
 .DS_Store
 *tmp*
+*ssh*
+*pem*
+
 # -- ENVIRONMENT -- #
 .env*
 *.env
